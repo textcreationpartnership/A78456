@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine and true news from Somerset-shire; with the besieging of Sir Ralph Hoptons house, together with the valiant and manfully performed courage of Mr. Arnold Hyward gentleman, souldier, and lieutenant to the troope of young Captaine Pym, son to that worthy and well deserving member of the House of Commons Iohn Pym Esq. Commanded to be printed and published. Likewise the manner of taking Sir Edward Rodney, Sir Edward Berkley, and Mr. Dugdale prisoners, and are now in the counter in London til further examination. Also a true relation of the sad and unfortunate mischance which befell our hopeful Prince Charles,  and the Duke of Yorke by wild fire, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78456</idno>
+            <idno type="STC">Wing C1685</idno>
+            <idno type="STC">Thomason E122_18</idno>
+            <idno type="STC">ESTC R14461</idno>
+            <idno type="EEBO-CITATION">99859667</idno>
+            <idno type="PROQUEST">99859667</idno>
+            <idno type="VID">111762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111762)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine and true news from Somerset-shire; with the besieging of Sir Ralph Hoptons house, together with the valiant and manfully performed courage of Mr. Arnold Hyward gentleman, souldier, and lieutenant to the troope of young Captaine Pym, son to that worthy and well deserving member of the House of Commons Iohn Pym Esq. Commanded to be printed and published. Likewise the manner of taking Sir Edward Rodney, Sir Edward Berkley, and Mr. Dugdale prisoners, and are now in the counter in London til further examination. Also a true relation of the sad and unfortunate mischance which befell our hopeful Prince Charles,  and the Duke of Yorke by wild fire, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for I. Vnderwood,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642. October 15.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Berkeley, Edward, --  Sir, b. 1619.</term>
+               <term>Dugdale, James, 1591 or 2-1661?</term>
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Howard, Arnold.</term>
+               <term>Rodney, Edward, --  Sir, 1590-1657.</term>
+               <term>Somerset (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111762:1" rendition="simple:additions"/>
+            <p>Certaine and true NEWS From Somerſet-ſhire; with the beſieging of Sir <hi>Ralph Hoptons</hi> Houſe, together with the valiant and manfully performed cou<g ref="char:EOLhyphen"/>rage of Mr. <hi>Arnold Hyward</hi> Gentleman, Soul<g ref="char:EOLhyphen"/>dier, and Lieutenant to the Troope of young Captaine <hi>Pym,</hi> Son to that worthy and well deſerving Member of the Houſe of Commons <hi>Iohn Pym</hi> Eſq.</p>
+            <p>Commanded to be printed and publiſhed.</p>
+            <p>Likewiſe the manner of ta<g ref="char:EOLhyphen"/>king Sir <hi>Edward Rodney,</hi> Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Berkley,</hi> and Mr. <hi>Dugdale</hi> priſo<g ref="char:EOLhyphen"/>ners, and are now in the Counter in London til further examination.</p>
+            <p>Alſo a true relation of the ſad and unfortunate miſ<g ref="char:EOLhyphen"/>chance which befell our hopeful Prince <hi>Charles,</hi> and the Duke of <hi>Yorke</hi> by Wild fire, &amp;c.</p>
+            <p>Printed at London for <hi>I. Vnderwood.</hi> 1642. <hi>October</hi> 15.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:111762:2"/>
+            <pb facs="tcp:111762:2"/>
+            <head>Certaine and true Newes from Somerſetſhire, with the beſei<g ref="char:EOLhyphen"/>ging of ſir <hi>Ralph Hoptons</hi> houſe, together with the valiant and manfully performed courage of Mr. <hi>Arnold Hyward</hi> Gentleman, Souldier and Lieutenant to the troope of young Captaine <hi>Pym,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the diſtractions of theſe times began, by the evill and unchriſtianable incendia<g ref="char:EOLhyphen"/>ries of the ſame, who like Spunges deſire to be filled with their owne naturall bloud which n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſſe appeares in their Counſells, hath not onely poyſoned the cleare head of the Spring, but like<g ref="char:EOLhyphen"/>wiſe labours to ſpoyle the Ocean, in going to unſluce the Rivers into it, which God I hope at his good time will ſtop, and point out with his ſinger their ſhames and puniſhments that thus began in the diſ<g ref="char:EOLhyphen"/>joynting peace to open Warres full gap, which lets in nought but red deſtruction on us, hand againſt hand, and one eye againſt another to ſhake and ruine all the bodies Fabrick, which we could wiſh might ſtop, and that his Majeſties good thoughts would open to reſcue our future good intents towards him, his iſſue, and his future ſafety, and that this poſture of
+<pb n="2" facs="tcp:111762:3"/>fence we ſtand in, is for his Royall ſafety, the protecti<g ref="char:EOLhyphen"/>on of his Iſſue, his Parliament and his Land, both a<g ref="char:EOLhyphen"/>gainſt forraigne and our home-bred Papiſts, the worſt of worſts that can be, in whoſe oppoſition hath a<g ref="char:EOLhyphen"/>mongſt the reſt his Majeſties Weſterne parts, as name<g ref="char:EOLhyphen"/>ly Wiltſhire, Summerſet, Dorſet, and Devonſhire, harbour reſolved ſpirits, will maintaine thoſe parts both for the King and Parliament; Likewiſe thoſe Cities with their adherent and adjacent Townes, well fortified and Gariſon'd with men, are by their brave Commanders well inſtructed, and fitted for the pre<g ref="char:EOLhyphen"/>ſent entertainement, either for ſiege in managing of Forts, Ports, walls or Breaches, or meeting in Battalia face to face in the open field their daring enemy, as now I am to expreſſe with duty to his Prince and both the honourable Houſes the ever re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy, reſolved, prepared and undaunted <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urage of Mr. <hi>Arnold Hy<g ref="char:EOLhyphen"/>ward</hi> both a Gentleman and a S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, Leiutenant un<g ref="char:EOLhyphen"/>to the troope of Captaine <hi>Pym</hi> who h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving certaine intelligence that at one ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Ralph Hoptons</hi> houſe were a couple of Knights, the one named ſir <hi>Edward Rod<g ref="char:EOLhyphen"/>ney,</hi> the other ſir <hi>Edward Berkeley,</hi> with a Miniſter named Maſter <hi>Dugdale,</hi> Chaplaine to the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Hartford,</hi> who were not onely great up<g ref="char:EOLhyphen"/>holders of the Malignant party, or Cavalliero rout, but were themſelves the ſame, ſeducing and combining thereunto a larger linke of power to knit againſt us, and with their friends, their Ten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts and Free-hol<g ref="char:EOLhyphen"/>ders did therewith fortifie and ſtrongly guard the houſe or Caſtle of the aforeſaid ſir <hi>Ralph Hoptons,</hi> which being aſſaulted by ſome part of our Troope, they very hotly began to oppoſe us, and ſent us ſhot for ſhot, and well they might ſtand upon daring
+<pb n="3" facs="tcp:111762:3"/>termes, being immur'd in ſtone, knit with faſt lime &amp; haire, yet thanks be unto God, their labour ſpent on us waſted themſelves and their mun<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion with it, and they that time not onely waſht the Ae<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hiop, but ba<g ref="char:EOLhyphen"/>thed themſelves in the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r owne fruiteleſſe ſweate; This skirmiſh yet continued, at leng<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h with a com<g ref="char:EOLhyphen"/>mand I left my Troope that they ſhould follow and maintain the fight, who very carefull were in the o<g ref="char:EOLhyphen"/>beying, I eſpied their horſemen mounted, which were the Knights and Prieſt I did formerly mention but how or which way they could from the Caſtle make eſcape, outſtrips my imagination, in a ſhort ſpace my willing horſe and I oretook them, the which when I perceived the one to be Sir <hi>Edward Rodney,</hi> &amp; the other Sir <hi>Edward Berkley,</hi> I bid them yeeld, and I would give them quarter, which they in a dreſt care<g ref="char:EOLhyphen"/>leſſe ſlight diſdainfull manner ſeeing no more but I and my ſmall Artillery, askt where I were a ſouldier, who returned them yes, I was, and wiſht them to yeeld with<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut any more treate of words, whoſe an<g ref="char:EOLhyphen"/>ſwer thus to mee ſtraight returned, whoſe ſouldier are you that with ſo hot a courage puts on confidence to talk of yeelding being 3 againſt one, my anſwer was, I am under Capt Pym, and wiſht them not to dreſſe the time out in diſcourſe, for I reſolved was for to ſet on them and winne them for my priſoners, or fall in the attempt of my ambition, they then being confi<g ref="char:EOLhyphen"/>dent my reſolve was them, or death, wiſht me to call my Captain, and they would yeeld to him, which ſo the more enflamed my wrath againſt them, that I ſaid they ſhould yeeld themſelves to me, with that uneſpied by me, the one of them a piſtoll ſtrook a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:111762:4"/>me, but the fire took not, for which I recom<g ref="char:EOLhyphen"/>mended them a token from my Carbine being ready in my hand, but had the luck to miſſe, the other at me let flie, and I at both of them, the parſon ſtood Neuter) and ſo began a skirmiſh pretty hot, in the meane time, my ſouldiers at the Caſtle did make a breach through a ſmal poſtern door, which they with<g ref="char:EOLhyphen"/>in perceiving their ſurpriſall, more than halfe killed with fear, for quarter cryed, which ſoon was gran<g ref="char:EOLhyphen"/>ted them, and ſtrait were ſeiz'd their arms with al the Caſtles other Ammunition, which ſoon in Carts from them was borne away. The other Knights that I held combat with, which I confeſſe were Gentlemen of courage, were both conſtrained to call to mee for quarter, and crownd me Conquerour of both their fortunes, which finiſht; I taking leave of Captaine <hi>Pym,</hi> brought my three priſoners to the Parliament, the Knights and Miniſter along with mee, where ha<g ref="char:EOLhyphen"/>ving welcome love and encouragement to follow my future fortunes in the defence of the King and them, my p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoners now remaine in the Counter, and I a<g ref="char:EOLhyphen"/>gaine preparing to my Captaine and my Charge.</p>
+            <p>
+               <hi>Witneſſe the Priſoners hands, and my owne teſtifica<g ref="char:EOLhyphen"/>tion as hereafter follow.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:111762:4"/>
+            <head>THE Manner of the taking of Sir Edward Rodney, Sir Edward Berkeley, and Maſter Dugdale.</head>
+            <p>WHen I <hi>Arnold Hyward</hi> found them, I bid them yeeld and I would give them quarter, they demanded whether I were a Souldier, and who was my Captaine; I told them I was a Souldier under Captaine <hi>Pym,</hi> they deſired me to call my Captain, and they would yeeld to him; I replyed I cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not but would have them yeeld to me: during our diſ<g ref="char:EOLhyphen"/>courſe a piſtoll of theirs ſtruck fire but went not off; thereupon I diſcharged my Carbine at them, then
+<pb n="6" facs="tcp:111762:5"/>they a piſtoll at me, then I a piſtoll at them, and they another at me, and I another Carbine at them.</p>
+            <p>While this was in doing, ſome others were brea<g ref="char:EOLhyphen"/>king in upon them; whereupon they agreed to yeeld themſelves to me, if I would give them quarter, which I did.</p>
+            <closer>
+               <dateline>witneſſe their hands, who are now priſoners in the Counter in Wood-ſtreet, London.</dateline>
+               <signed>
+                  <list>
+                     <item>Edward Rodney.</item>
+                     <item>Edward Berkley.</item>
+                     <item>Ja. Dugdale.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A true relation of the ſad, and unfortunate miſchance which befell Prince <hi>Charles</hi> and the Duke of York by fire-workes and Gun-powder, neere to Shresbury on thurſday night laſt.</head>
+            <p>THe manner of this ſad and unfortunate miſ<g ref="char:EOLhyphen"/>chance was written in a Letter to a Gentleman in London, which for certayne truth was thus.</p>
+            <p>A French man who is an Enginere to his Majeſty, and a very skilfull contriver of fire-workes, being de<g ref="char:EOLhyphen"/>ſirous to have his skil known, apoynted a convenient time to ſhew his Art, at which ſeaſon the Prince and his brother <hi>Iames</hi> Duke of <hi>Yorke</hi> were preſent, who ſtanding by, the Enginere having layd his traynes of powder to perfit his worke, and both theſe princes, as it were in the midſt of the traynes of powder, a care<g ref="char:EOLhyphen"/>leſſe fellow running too and fro with a lighted match in his hand, there unfortunately and unluckeyly fell a ſparke of fire from the coale of the match, and hap<g ref="char:EOLhyphen"/>ned amongſt the traine of powder, flaſhing up, fiered the Princes cloaths, burnt his band and his face, and hurt the Duke of <hi>Yorke</hi> very ſhrewdly, in ſomuch that it is thought he will looſe one of his eyes, to the great griefe of his Majeſty, the whole Court, and Country, and all good ſubjects that heares of it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
